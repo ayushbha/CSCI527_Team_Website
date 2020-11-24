@@ -35,7 +35,7 @@
 /**************** common css start ****************/
 /* line 3, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_common.scss */
 body {
-  font-family: "Aclonica", sans-serif;
+  /*font-family: "Aclonica", sans-serif;*/
   padding: 0;
   margin: 0;
   font-size: 14px;
@@ -3987,7 +3987,7 @@ ul {
   font-size: 18px;
   text-transform: capitalize;
   margin-bottom: 55px;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
   font-weight: 700;
 }
 
@@ -4268,7 +4268,7 @@ ul {
   color: #bebebe;
   margin-bottom: 10px;
   display: inline-block;
-  font-family: "Poppins", sans-serif;
+  /*font-family: "Poppins", sans-serif;*/
 }
 
 /* line 68, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_footer.scss */
